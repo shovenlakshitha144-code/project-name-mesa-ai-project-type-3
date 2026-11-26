@@ -1,0 +1,19 @@
+{
+  "name": "MESA AI v2.0",
+  "short_name": "MESA AI",
+  "description": "Futuristic Personal AI Assistant, Voice Companion, and SLBSK DIGITAL CREATION Business OS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040814",
+  "theme_color": "#06b6d4",
+  "orientation": "any",
+  "categories": ["productivity", "business", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/mesa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
